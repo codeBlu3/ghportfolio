@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/ghportfolio/static/js/app.cadd41b8.chunk.js",
+    "app.js.map": "/ghportfolio/static/js/app.cadd41b8.chunk.js.map",
+    "runtime~app.js": "/ghportfolio/static/js/runtime~app.c3eac694.js",
+    "runtime~app.js.map": "/ghportfolio/static/js/runtime~app.c3eac694.js.map",
+    "static/js/2.7dcc80cc.chunk.js": "/ghportfolio/static/js/2.7dcc80cc.chunk.js",
+    "static/js/2.7dcc80cc.chunk.js.map": "/ghportfolio/static/js/2.7dcc80cc.chunk.js.map",
+    "favicon-16.png": "/ghportfolio/favicon-16.png",
+    "favicon-32.png": "/ghportfolio/favicon-32.png",
+    "favicon.ico": "/ghportfolio/favicon.ico",
+    "index.html": "/ghportfolio/index.html",
+    "manifest.json": "/ghportfolio/manifest.json",
+    "serve.json": "/ghportfolio/serve.json",
+    "static/js/2.7dcc80cc.chunk.js.LICENSE.txt": "/ghportfolio/static/js/2.7dcc80cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.c3eac694.js",
+    "static/js/2.7dcc80cc.chunk.js",
+    "static/js/app.cadd41b8.chunk.js"
+  ]
+}
